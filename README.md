@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Akshayy08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Akshayy08/Akshayy08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I’m Akshay Pawar
+- 👀 I’m currently working on CEAT Limited
+- 🌱 I’m currently learning - IT Coruses
+- 💞️ I’m looking to collaborate on- Other developers in community
+- 📫.Asl me about - Angular, Anytime 😊
